@@ -1,0 +1,1 @@
+{"status":"success","data":{"city":"Chatuchak","state":"Bangkok","country":"Thailand","location":{"type":"Point","coordinates":[100.573562,13.819948]},"current":{"weather":{"ts":"2021-06-11T11:00:00.000Z","tp":30,"pr":1004,"hu":66,"ws":6.17,"wd":260,"ic":"04d"},"pollution":{"ts":"2021-06-11T12:00:00.000Z","aqius":41,"mainus":"p2","aqicn":14,"maincn":"p2"}}}}

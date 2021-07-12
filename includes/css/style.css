@@ -1,0 +1,75 @@
+/**
+Author: Saikaew W
+Description: AQI Plugin
+Version: 1.0.0.
+*/
+.aqi-time{
+    font-size: 1rem;
+    color: #6d6d6d;
+    padding-bottom: 1.5rem;
+}
+.aqi-city-title{
+    display: flex;
+    font-size: 1.6rem;
+}
+.aqi-temperture{
+    font-size: 1.6rem;
+    font-weight: 500;
+    text-align: right;
+    padding-left: 2rem;
+}
+.aqi-box{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    border-radius: 4px;
+
+}
+.aqi-value-index{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.aqi-us{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.aqi-img{
+    width: 30%;
+    height: auto;
+    padding: 1.5rem 0;
+}
+.aqi-img img{
+    display: table-cell;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.aqi-value{
+    width: 70%;
+    text-align: center;    
+}
+.aqi-result-green{
+    background-color: #b0e967;
+    color: #6d8f3a;
+}
+.aqi-result-yellow{
+    background-color: #fcdc71;
+    color: #8b6c1c;
+}
+.aqi-result-orange{
+    background-color: #fea968;
+    color: #b45e25;
+}
+.aqi-result-red{
+    background-color: #fe787b;
+    color: #bd3a40;
+}
+.aqi-result-purple{
+    background-color: #a97abc;
+    color: #543b63;
+}
+.aqi-result-maroon{
+    background-color: #9e7a87a1;
+    color: #573443;
+}
